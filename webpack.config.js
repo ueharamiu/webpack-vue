@@ -50,7 +50,7 @@ module.exports = {
 	},
 
 	plugins: [
-		new VueLoaderPlugin() // Vueを読み込み
+		new VueLoaderPlugin(), // Vueを読み込み
 	],
 
 	// 開発サーバーの立ち上げを指定
