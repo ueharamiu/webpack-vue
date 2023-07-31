@@ -15,10 +15,12 @@
   "dependencies": {
     "@babel/core": "^7.22.6",
     "@babel/preset-env": "^7.22.6",
+    "@vueuse/core": "^10.2.1",
     "babel-loader": "^9.1.2",
     "html-webpack-plugin": "^5.5.3",
     "style-loader": "^3.3.3",
     "vue": "^3.3.4",
+    "vue-router": "^4.2.4",
     "webpack-dev-server": "^4.15.1"
   },
   "devDependencies": {
